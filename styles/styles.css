@@ -66,9 +66,14 @@ nav a {
   text-decoration: none;
   color: #015485;
   font-weight: bold;
+  transition: all 110ms ease-in-out;
 }
 
 nav a:hover {
+  color: var(--primary-color);
+}
+
+nav li.active a {
   color: var(--primary-color);
 }
 
