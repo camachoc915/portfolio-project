@@ -55,7 +55,7 @@ p {
   line-height: 2;
 }
 .logo {
-  max-width: 150px;
+  max-height: 50px;
   margin-bottom: 10px;
   border-color: var(--primary-color);
 }
@@ -69,6 +69,7 @@ nav a {
   color: #015485;
   font-weight: bold;
   transition: all 110ms ease-in-out;
+  font-size: 14px;
 }
 
 nav a:hover,
