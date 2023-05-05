@@ -124,20 +124,20 @@ nav li {
     line-height: 2;
   }
 }
-.about-section h1 {
+.content-container h1 {
   font-size: 58px;
   line-height: 80px;
   color: #015485;
 }
-.about-section h2 {
+.content-container h2 {
   font-size: 18px;
   font-family: var(--default-font-family);
 }
-.about-section {
+.content-container {
   padding: 160px 20px;
   text-align: center;
 }
-.about-section-content {
+.content {
   margin: 30px;
 }
 .about-title {
@@ -147,7 +147,7 @@ nav li {
   text-align: center;
 }
 
-.about-section img {
+.content-container img {
   border-radius: 10px;
 }
 .back-tone {
