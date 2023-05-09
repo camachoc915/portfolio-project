@@ -206,3 +206,7 @@ footer .email-link {
   font-size: 24px;
   text-align: center;
 }
+
+footer .contact-box.alt-bg {
+  background: white;
+}
